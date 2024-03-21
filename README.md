@@ -1,4 +1,4 @@
-# Dekaf for Apache Pulsar
+# Dekaf: New UI for Apache Pulsar
 
 ## Try
 
