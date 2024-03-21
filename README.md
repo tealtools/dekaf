@@ -4,7 +4,8 @@
 
 `wget https://raw.githubusercontent.com/tealtools/dekaf/main/docker-compose.yaml && docker-compose up`
 
-Then open <http://localhost:8090>
+- Await for DEKAF message ☕️
+- Then open <http://localhost:8090>
 
 ## Configure
 
