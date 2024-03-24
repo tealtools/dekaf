@@ -4,7 +4,11 @@ Dekaf is a visual user interface for Apache Pulsar: <https://dekaf.io>
 
 Community forum: https://github.com/tealtools/dekaf/discussions
 
-## Try
+## Quick Start
+
+
+- Please make sure that you have [Docker](https://docs.docker.com/get-docker/).
+- Run the following commands:
 
 ```
 wget https://raw.githubusercontent.com/tealtools/dekaf/main/docker-compose.yaml
@@ -15,6 +19,16 @@ docker-compose pull && docker-compose up
 - Wait until Pulsar is ready
 - Enjoy ☕️
 
+<img width="1435" alt="Screenshot 2024-02-22 at 12 43 44 PM" src="https://github.com/tealtools/dekaf/assets/9302460/d224e725-48e2-4cad-a2c5-e2a94246362b">
+
+### Demo Application
+
+We also run a demo application that produces data for two new tenants in this quick start.
+
+If you don't see the `demo-schema-types` and `demo-shop` tenants in the tenant list, try to wait for a few seconds and reload the page.
+
+If you want to disable the demo application, remove it in the `docker-compose.yaml` file.
+
 ## Configure
 
 <https://www.dekaf.io/docs/dekaf/configuration-reference>
@@ -24,5 +38,3 @@ docker-compose pull && docker-compose up
 <https://www.dekaf.io/docs/consume/consumer-session-tutorial>
 
 🚧 The rest docs are under construction 🚧
-
-<img width="1435" alt="Screenshot 2024-02-22 at 12 43 44 PM" src="https://github.com/tealtools/dekaf/assets/9302460/d224e725-48e2-4cad-a2c5-e2a94246362b">
