@@ -2,10 +2,7 @@
 
 Dekaf is a proprietary visual user interface for Apache Pulsar: <https://dekaf.io>
 
-Community forum: https://github.com/tealtools/dekaf/discussions
-
 ## Quick Start
-
 
 - Please make sure that you have [Docker](https://docs.docker.com/get-docker/)
 - Open your terminal
