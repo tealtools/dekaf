@@ -33,7 +33,7 @@ If you want to disable the demo application, remove it from the `docker-compose.
 
 ### Troubleshooting
 
-- We recommend ensuring that you Docker memory limit is **6GB** or more.
+- We recommend ensuring that you have **6GB** or more Docker memory limit.
 - If you have issues with file permissions:
   - Remove the data dir `rm -rf ./data`
   - Create data directory for Pulsar `mkdir -p ./data/pulsar`
