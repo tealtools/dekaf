@@ -23,11 +23,11 @@ docker-compose pull && docker-compose up
 
 ### Demo Application
 
-We also run a demo application that produces data for two new tenants in this quick start.
+ We also run a demo application that produces data for two new tenants in this quick start.
 
 If you don't see the `demo-schema-types` and `demo-shop` tenants in the tenant list, try to wait for a few seconds and reload the page.
 
-If you want to disable the demo application, remove it in the `docker-compose.yaml` file.
+If you want to disable the demo application, remove it from the `docker-compose.yaml` file.
 
 ## Configure
 
