@@ -4,7 +4,10 @@ Dekaf is a visual user interface for Apache Pulsar.
 
 ## Try
 
-`wget https://raw.githubusercontent.com/tealtools/dekaf/main/docker-compose.yaml && docker-compose up`
+```
+wget https://raw.githubusercontent.com/tealtools/dekaf/main/docker-compose.yaml
+docker-compose pull && docker-compose up
+```
 
 - Await for Pulsar is ready
 - Await for DEKAF message ☕️
