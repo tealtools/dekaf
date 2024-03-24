@@ -37,7 +37,7 @@ If you want to disable the demo application, remove it from the `docker-compose.
 - If you have issues with file permissions:
   - Remove the data dir `rm -rf ./data`
   - Create data directory for Pulsar `mkdir -p ./data/pulsar`
-  - Set new appropriate file permissions by running `sudo chown -R 10000 ./data/pulsar`
+  - Set the required file permissions by running `sudo chown -R 10000 ./data/pulsar`
 
 ## Configure
 
