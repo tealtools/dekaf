@@ -9,8 +9,8 @@ Community forum: https://github.com/tealtools/dekaf/discussions
 
 - Please make sure that you have [Docker](https://docs.docker.com/get-docker/)
 - Open your terminal
-- Create a new directory `mkdir dekaf && cd ./dekaf`
-- Run the following commands:
+- Create a new directory: `mkdir dekaf && cd ./dekaf`
+- Download the `docker-compose.yaml` file and start it:
 
 ```
 wget https://raw.githubusercontent.com/tealtools/dekaf/main/docker-compose.yaml
