@@ -2,8 +2,6 @@
 
 Dekaf is a proprietary visual user interface for Apache Pulsar: <https://dekaf.io>
 
-Feel free to start discussions or create issues in this GitHub repository.
-
 ## Quick Start
 
 - Please make sure that you have [Docker](https://docs.docker.com/get-docker/)
@@ -34,12 +32,18 @@ If you want to disable the demo application, remove it from the `docker-compose.
 
 - If the `pulsar` container cannot start, we recommend ensuring that you have **6GB** or more Docker memory limit. We'll adjust the `docker-compose` memory for a lower limit later.
 
-## Configure
+## What's Next?
+
+### Consumer Session Tutorial
+
+<https://www.dekaf.io/docs/consume/consumer-session-tutorial>
+
+### Configuration Reference
 
 <https://www.dekaf.io/docs/dekaf/configuration-reference>
 
-## Consume
+Feel free to start discussions or create issues in this GitHub repository.
 
-<https://www.dekaf.io/docs/consume/consumer-session-tutorial>
+---
 
 🚧 The rest docs are under construction 🚧
