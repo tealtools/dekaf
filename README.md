@@ -9,9 +9,9 @@ wget https://raw.githubusercontent.com/tealtools/dekaf/main/docker-compose.yaml
 docker-compose pull && docker-compose up
 ```
 
-- Await for Pulsar is ready
-- Await for DEKAF message ☕️
 - Open <http://localhost:8090>
+- Wait until Pulsar is ready
+- Enjoy ☕️
 
 ## Configure
 
