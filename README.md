@@ -31,6 +31,14 @@ If you don't see the `demo-schema-types` and `demo-shop` tenants in the tenant l
 
 If you want to disable the demo application, remove it from the `docker-compose.yaml` file.
 
+### Troubleshooting
+
+- We recommend ensuring that you Docker memory limit is **6GB** or more.
+- If you have issues with file permissions:
+  - Remove the data dir `rm -rf ./data`
+  - Create data directory for Pulsar `mkdir -p ./data/pulsar`
+  - Set new appropriate file permissions by running `sudo chown -R 10000 ./data/pulsar`
+
 ## Configure
 
 <https://www.dekaf.io/docs/dekaf/configuration-reference>
