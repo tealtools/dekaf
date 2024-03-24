@@ -1,4 +1,4 @@
-# Dekaf: New UI for Apache Pulsar
+# Dekaf: Friendly UI for Apache Pulsar
 
 Dekaf is a visual user interface for Apache Pulsar: <https://dekaf.io>
 
