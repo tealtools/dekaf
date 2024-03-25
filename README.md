@@ -2,7 +2,7 @@
 
 Dekaf is a visual user interface for Apache Pulsar: <https://dekaf.io>
 
-Feel free to start discussions or create issues in this GitHub repository. Let's talk! 🙂
+Feel free to start discussions or create issues in this GitHub repository.
 
 [Share your feedback!](https://github.com/tealtools/dekaf/discussions/2)
 
