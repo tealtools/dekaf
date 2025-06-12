@@ -49,7 +49,7 @@ If you want to disable the demo application, remove it from the `docker-compose.
 
 ### Configuration Reference
 
-<https://www.dekaf.io/docs/dekaf/configuration-reference>
+<https://www.dekaf.io/docs/configuration-reference>
 
 ---
 
