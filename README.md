@@ -1,6 +1,6 @@
-# Dekaf for Apache Pulsar™
+# Dekaf for Apache Pulsar
 
-Dekaf is a proprietary visual user interface for Apache Pulsar: <https://dekaf.io>
+Dekaf is a proprietary visual user interface for Apache Pulsar.
 
 📣 **Dekaf has become open source software:** https://github.com/visortelle/dekaf
 
